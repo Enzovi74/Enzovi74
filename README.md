@@ -2,12 +2,12 @@
 
 ## About me / Qui suis-je 
 
-**EN:**
+**EN:** </br>
 I'm Enzo, a French CS student currently in first year of a CS master degree in Lyon, France. </br>
 In 2026 I graduated from a game dev degree in UQAC Chicoutimi, Québec.</br>
 I aspire to become a game engine developper, so I'm currently learning by myself low level techs, and how to use the different "commercial" game engines.
 
-**FR:**
+**FR:** </br>
 Je m'appelle Enzo, je suis actuellement étudiant en Master informatique à Lyon. </br>
 Diplômé d'un baccalauréat en développement de jeux-vidéo à l'UQAC au Québec en 2026. </br>
 Je souhaite devenir développeur Engine, donc j'étudie en ce moment de manière autodidacte le développement bas niveau, et le fonctionnement des différents game engine "commerciaux". 
@@ -45,7 +45,7 @@ Je souhaite devenir développeur Engine, donc j'étudie en ce moment de manière
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Vue JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 ### Game dev / Développement de jeux vidéo
